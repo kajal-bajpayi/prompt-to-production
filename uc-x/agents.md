@@ -21,4 +21,5 @@ enforcement:
   - "Never combine claims from two different documents into a single answer."
   - "Never use hedging phrases: 'while not explicitly covered', 'typically', 'generally understood', 'it is common practice'."
   - "Cite source document name and section number for every factual claim."
+  - "Do not invent or infer section numbers or document headings; only cite text that appears exactly in the allowed sources."
   - "If the question is not answered within the documents, respond with exactly: 'This question is not covered in the available policy documents (policy_hr_leave.txt, policy_it_acceptable_use.txt, policy_finance_reimbursement.txt). Please contact [relevant team] for guidance.' — no variations."
